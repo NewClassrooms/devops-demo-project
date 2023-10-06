@@ -10,11 +10,13 @@ build:
 
 test: # this job must be present in your final submission
     stage: test
+    image: quay.io/curl/curl-base:latest
     variables:
         POSTGRES_DB: custom_db
         POSTGRES_USER: custom_user
         POSTGRES_PASSWORD: custom_pass
         FF_NETWORK_PER_BUILD: 1
+        GRAPHQL_URL: http://demo_app/graphql
 
     services:
         - postgres
@@ -23,4 +25,5 @@ test: # this job must be present in your final submission
           variables:
               DJANGO_CONFIGURATION: Development
     script: # this assumes the fixture data has been loaded into the database
-        - wget -O - --content-on-error http://demo_app/graphql
+        - apk add jq
+        - ./run_graphql_tests.sh

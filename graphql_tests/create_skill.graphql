@@ -1,0 +1,8 @@
+mutation {
+  createSkill(input: {name: "skill1", difficulty: 1.2, gradeLevelId:"R3JhZGVMZXZlbE5vZGU6MQ=="}) {
+    skill {
+      id,
+      name,
+    }
+  }
+}

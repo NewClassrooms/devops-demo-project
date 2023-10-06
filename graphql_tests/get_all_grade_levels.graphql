@@ -1,0 +1,10 @@
+query {
+  allGradeLevels {
+    edges {
+      node {
+        id,
+        name
+      }
+    }
+  }
+}
