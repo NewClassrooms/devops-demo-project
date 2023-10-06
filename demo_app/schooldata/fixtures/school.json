@@ -1,0 +1,10 @@
+[
+  {
+    "model": "schooldata.school",
+    "pk": 1,
+    "fields": {
+      "name": "Test School",
+      "is_using_scheduling": true
+    }
+  }
+]

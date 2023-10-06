@@ -1,0 +1,7 @@
+# http://pep8.readthedocs.io/en/release-1.7.x/intro.html
+# E128 - lame indentation rules for continued lines
+# E26x - because we used to start comments with ### for some reason
+# W503 - just wrong; see: https://www.python.org/dev/peps/pep-0008/#id20
+[flake8]
+ignore = E128,E262,E266,W503
+max-line-length = 150

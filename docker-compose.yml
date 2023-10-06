@@ -1,0 +1,32 @@
+version: "2"
+services:
+  database:
+    image: docker.io/postgres
+    environment:
+      POSTGRES_DB: custom_db
+      POSTGRES_USER: custom_user
+      POSTGRES_PASSWORD: custom_pass
+    ports:
+      - "5432"
+    healthcheck:
+      test: [ "CMD-SHELL", "echo 'custom_pass' > .pgpass && pg_isready -U custom_user -d custom_db" ]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  graphql:
+    image: demo_app
+    build:
+      dockerfile: ./Containerfile
+      context: .
+    environment:
+      DJANGO_CONFIGURATION: Development
+      DJANGO_POSTGRES_HOST: database
+      DJANGO_POSTGRES_DBNAME: custom_db
+      DJANGO_POSTGRES_USER: custom_user
+      DJANGO_POSTGRES_PASSWORD: custom_pass
+    ports:
+      - "8000:8000"
+    depends_on:
+      database:
+        condition: service_healthy

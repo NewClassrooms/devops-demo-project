@@ -1,0 +1,15 @@
+<html>
+<head>
+    <title>demo_app</title>
+</head>
+<body>
+    <h1>demo_app is running</h1>
+    <p>
+        <a href="{% url 'admin:index' %}">Admin panel</a>
+    </p>
+    <p>
+        <a href="{% url 'graphql' %}">GraphiQL</a>
+    </p>
+    <p>GraphQL API url is: {{ graphql_endpoint }}</p>
+</body>
+</html>

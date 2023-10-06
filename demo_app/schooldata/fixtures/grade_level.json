@@ -1,0 +1,98 @@
+[
+  {
+    "model": "schooldata.gradelevel",
+    "pk": 1,
+    "fields": {
+      "name": "1st Grade",
+      "grade_level": 1
+    }
+  },
+  {
+    "model": "schooldata.gradelevel",
+    "pk": 2,
+    "fields": {
+      "name": "2nd Grade",
+      "grade_level": 2
+    }
+  },
+  {
+    "model": "schooldata.gradelevel",
+    "pk": 3,
+    "fields": {
+      "name": "3rd Grade",
+      "grade_level": 3
+    }
+  },
+  {
+    "model": "schooldata.gradelevel",
+    "pk": 4,
+    "fields": {
+      "name": "4th Grade",
+      "grade_level": 4
+    }
+  },
+  {
+    "model": "schooldata.gradelevel",
+    "pk": 5,
+    "fields": {
+      "name": "5th Grade",
+      "grade_level": 5
+    }
+  },
+  {
+    "model": "schooldata.gradelevel",
+    "pk": 6,
+    "fields": {
+      "name": "6th Grade",
+      "grade_level": 6
+    }
+  },
+  {
+    "model": "schooldata.gradelevel",
+    "pk": 7,
+    "fields": {
+      "name": "7th Grade",
+      "grade_level": 7
+    }
+  },
+  {
+    "model": "schooldata.gradelevel",
+    "pk": 8,
+    "fields": {
+      "name": "8th Grade",
+      "grade_level": 8
+    }
+  },
+  {
+    "model": "schooldata.gradelevel",
+    "pk": 9,
+    "fields": {
+      "name": "9th Grade",
+      "grade_level": 9
+    }
+  },
+  {
+    "model": "schooldata.gradelevel",
+    "pk": 10,
+    "fields": {
+      "name": "10th Grade",
+      "grade_level": 10
+    }
+  },
+  {
+    "model": "schooldata.gradelevel",
+    "pk": 11,
+    "fields": {
+      "name": "11th Grade",
+      "grade_level": 11
+    }
+  },
+  {
+    "model": "schooldata.gradelevel",
+    "pk": 12,
+    "fields": {
+      "name": "12th Grade",
+      "grade_level": 12
+    }
+  }
+]

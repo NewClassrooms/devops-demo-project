@@ -1,0 +1,2855 @@
+[
+  {
+    "model": "schooldata.skill",
+    "pk": 1,
+    "fields": {
+      "name": "A108",
+      "grade_level": 4,
+      "difficulty": "-1.18"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 2,
+    "fields": {
+      "name": "A111",
+      "grade_level": 8,
+      "difficulty": "0.24"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 3,
+    "fields": {
+      "name": "A116",
+      "grade_level": 6,
+      "difficulty": "-0.28"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 4,
+    "fields": {
+      "name": "A138",
+      "grade_level": 6,
+      "difficulty": "-0.35"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 5,
+    "fields": {
+      "name": "A139",
+      "grade_level": 7,
+      "difficulty": "0.00"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 6,
+    "fields": {
+      "name": "A144",
+      "grade_level": 7,
+      "difficulty": "0.87"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 7,
+    "fields": {
+      "name": "A149",
+      "grade_level": 3,
+      "difficulty": "-1.46"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 8,
+    "fields": {
+      "name": "A177",
+      "grade_level": 6,
+      "difficulty": "-0.20"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 9,
+    "fields": {
+      "name": "A178",
+      "grade_level": 8,
+      "difficulty": "0.36"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 10,
+    "fields": {
+      "name": "A179",
+      "grade_level": 7,
+      "difficulty": "-0.04"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 11,
+    "fields": {
+      "name": "A185",
+      "grade_level": 4,
+      "difficulty": "-0.84"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 12,
+    "fields": {
+      "name": "A200",
+      "grade_level": 9,
+      "difficulty": "1.15"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 13,
+    "fields": {
+      "name": "A203",
+      "grade_level": 6,
+      "difficulty": "-0.38"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 14,
+    "fields": {
+      "name": "A204",
+      "grade_level": 8,
+      "difficulty": "0.67"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 15,
+    "fields": {
+      "name": "A212",
+      "grade_level": 4,
+      "difficulty": "-1.08"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 16,
+    "fields": {
+      "name": "A215",
+      "grade_level": 7,
+      "difficulty": "-0.06"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 17,
+    "fields": {
+      "name": "A222",
+      "grade_level": 6,
+      "difficulty": "-0.31"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 18,
+    "fields": {
+      "name": "A228",
+      "grade_level": 6,
+      "difficulty": "-0.27"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 19,
+    "fields": {
+      "name": "A236",
+      "grade_level": 8,
+      "difficulty": "1.16"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 20,
+    "fields": {
+      "name": "A237",
+      "grade_level": 9,
+      "difficulty": "1.18"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 21,
+    "fields": {
+      "name": "A240",
+      "grade_level": 8,
+      "difficulty": "0.65"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 22,
+    "fields": {
+      "name": "A250",
+      "grade_level": 7,
+      "difficulty": "-0.20"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 23,
+    "fields": {
+      "name": "A259",
+      "grade_level": 9,
+      "difficulty": "1.20"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 24,
+    "fields": {
+      "name": "A265",
+      "grade_level": 6,
+      "difficulty": "-0.54"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 25,
+    "fields": {
+      "name": "A267",
+      "grade_level": 9,
+      "difficulty": "0.95"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 26,
+    "fields": {
+      "name": "A270",
+      "grade_level": 8,
+      "difficulty": "0.38"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 27,
+    "fields": {
+      "name": "A273",
+      "grade_level": 9,
+      "difficulty": "1.23"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 28,
+    "fields": {
+      "name": "A274",
+      "grade_level": 5,
+      "difficulty": "-0.56"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 29,
+    "fields": {
+      "name": "A279",
+      "grade_level": 7,
+      "difficulty": "-0.08"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 30,
+    "fields": {
+      "name": "A280",
+      "grade_level": 8,
+      "difficulty": "0.58"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 31,
+    "fields": {
+      "name": "A285",
+      "grade_level": 9,
+      "difficulty": "1.30"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 32,
+    "fields": {
+      "name": "A290",
+      "grade_level": 6,
+      "difficulty": "-0.47"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 33,
+    "fields": {
+      "name": "A294",
+      "grade_level": 7,
+      "difficulty": "0.32"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 34,
+    "fields": {
+      "name": "A313",
+      "grade_level": 8,
+      "difficulty": "0.40"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 35,
+    "fields": {
+      "name": "A324",
+      "grade_level": 9,
+      "difficulty": "2.68"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 36,
+    "fields": {
+      "name": "A326",
+      "grade_level": 9,
+      "difficulty": "1.50"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 37,
+    "fields": {
+      "name": "A331",
+      "grade_level": 9,
+      "difficulty": "1.00"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 38,
+    "fields": {
+      "name": "A332",
+      "grade_level": 8,
+      "difficulty": "1.40"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 39,
+    "fields": {
+      "name": "A333",
+      "grade_level": 9,
+      "difficulty": "2.06"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 40,
+    "fields": {
+      "name": "A334",
+      "grade_level": 9,
+      "difficulty": "2.40"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 41,
+    "fields": {
+      "name": "A335",
+      "grade_level": 8,
+      "difficulty": "1.24"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 42,
+    "fields": {
+      "name": "A336",
+      "grade_level": 9,
+      "difficulty": "2.64"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 43,
+    "fields": {
+      "name": "A337",
+      "grade_level": 9,
+      "difficulty": "0.88"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 46,
+    "fields": {
+      "name": "A342",
+      "grade_level": 9,
+      "difficulty": "1.10"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 47,
+    "fields": {
+      "name": "A343",
+      "grade_level": 9,
+      "difficulty": "1.40"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 48,
+    "fields": {
+      "name": "A345",
+      "grade_level": 9,
+      "difficulty": "1.50"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 49,
+    "fields": {
+      "name": "A346",
+      "grade_level": 9,
+      "difficulty": "1.42"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 52,
+    "fields": {
+      "name": "A349",
+      "grade_level": 9,
+      "difficulty": "2.00"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 53,
+    "fields": {
+      "name": "A358",
+      "grade_level": 9,
+      "difficulty": "1.17"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 55,
+    "fields": {
+      "name": "A363",
+      "grade_level": 9,
+      "difficulty": "2.13"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 56,
+    "fields": {
+      "name": "A364",
+      "grade_level": 9,
+      "difficulty": "2.09"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 57,
+    "fields": {
+      "name": "A389",
+      "grade_level": 7,
+      "difficulty": "0.31"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 58,
+    "fields": {
+      "name": "A478",
+      "grade_level": 6,
+      "difficulty": "-0.16"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 59,
+    "fields": {
+      "name": "A507",
+      "grade_level": 5,
+      "difficulty": "-0.54"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 60,
+    "fields": {
+      "name": "A513",
+      "grade_level": 8,
+      "difficulty": "0.29"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 61,
+    "fields": {
+      "name": "A514",
+      "grade_level": 8,
+      "difficulty": "0.63"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 62,
+    "fields": {
+      "name": "A516",
+      "grade_level": 5,
+      "difficulty": "-0.52"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 63,
+    "fields": {
+      "name": "A524",
+      "grade_level": 6,
+      "difficulty": "-0.04"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 64,
+    "fields": {
+      "name": "A526",
+      "grade_level": 7,
+      "difficulty": "0.90"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 65,
+    "fields": {
+      "name": "A529",
+      "grade_level": 4,
+      "difficulty": "-0.63"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 66,
+    "fields": {
+      "name": "A541",
+      "grade_level": 7,
+      "difficulty": "0.22"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 67,
+    "fields": {
+      "name": "A542",
+      "grade_level": 8,
+      "difficulty": "0.57"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 68,
+    "fields": {
+      "name": "A544",
+      "grade_level": 8,
+      "difficulty": "1.30"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 69,
+    "fields": {
+      "name": "A546",
+      "grade_level": 7,
+      "difficulty": "0.09"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 70,
+    "fields": {
+      "name": "A549",
+      "grade_level": 9,
+      "difficulty": "2.20"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 71,
+    "fields": {
+      "name": "A550",
+      "grade_level": 9,
+      "difficulty": "1.70"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 72,
+    "fields": {
+      "name": "A551",
+      "grade_level": 9,
+      "difficulty": "1.98"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 73,
+    "fields": {
+      "name": "A552",
+      "grade_level": 8,
+      "difficulty": "0.44"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 74,
+    "fields": {
+      "name": "A553",
+      "grade_level": 8,
+      "difficulty": "1.14"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 75,
+    "fields": {
+      "name": "A556",
+      "grade_level": 9,
+      "difficulty": "2.30"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 76,
+    "fields": {
+      "name": "A601",
+      "grade_level": 8,
+      "difficulty": "0.68"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 77,
+    "fields": {
+      "name": "A620",
+      "grade_level": 8,
+      "difficulty": "0.33"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 78,
+    "fields": {
+      "name": "A621",
+      "grade_level": 10,
+      "difficulty": "1.00"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 79,
+    "fields": {
+      "name": "A626",
+      "grade_level": 10,
+      "difficulty": "1.00"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 80,
+    "fields": {
+      "name": "A639",
+      "grade_level": 4,
+      "difficulty": "-1.45"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 81,
+    "fields": {
+      "name": "A640",
+      "grade_level": 3,
+      "difficulty": "-1.84"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 82,
+    "fields": {
+      "name": "A654",
+      "grade_level": 3,
+      "difficulty": "-1.70"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 83,
+    "fields": {
+      "name": "A659",
+      "grade_level": 6,
+      "difficulty": "-0.34"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 84,
+    "fields": {
+      "name": "F129",
+      "grade_level": 8,
+      "difficulty": "0.53"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 85,
+    "fields": {
+      "name": "F145",
+      "grade_level": 8,
+      "difficulty": "0.48"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 86,
+    "fields": {
+      "name": "F146",
+      "grade_level": 8,
+      "difficulty": "0.93"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 87,
+    "fields": {
+      "name": "F167",
+      "grade_level": 8,
+      "difficulty": "0.42"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 88,
+    "fields": {
+      "name": "F188",
+      "grade_level": 8,
+      "difficulty": "0.50"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 89,
+    "fields": {
+      "name": "F224",
+      "grade_level": 8,
+      "difficulty": "0.90"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 90,
+    "fields": {
+      "name": "F232",
+      "grade_level": 8,
+      "difficulty": "0.96"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 91,
+    "fields": {
+      "name": "F300",
+      "grade_level": 9,
+      "difficulty": "1.71"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 92,
+    "fields": {
+      "name": "F319",
+      "grade_level": 9,
+      "difficulty": "1.90"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 93,
+    "fields": {
+      "name": "F320",
+      "grade_level": 9,
+      "difficulty": "2.06"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 94,
+    "fields": {
+      "name": "F322",
+      "grade_level": 8,
+      "difficulty": "0.90"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 95,
+    "fields": {
+      "name": "F325",
+      "grade_level": 8,
+      "difficulty": "0.32"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 96,
+    "fields": {
+      "name": "F329",
+      "grade_level": 9,
+      "difficulty": "1.57"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 97,
+    "fields": {
+      "name": "F352",
+      "grade_level": 9,
+      "difficulty": "3.63"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 98,
+    "fields": {
+      "name": "F365",
+      "grade_level": 9,
+      "difficulty": "1.10"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 99,
+    "fields": {
+      "name": "F366",
+      "grade_level": 9,
+      "difficulty": "2.75"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 100,
+    "fields": {
+      "name": "F547",
+      "grade_level": 9,
+      "difficulty": "1.83"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 101,
+    "fields": {
+      "name": "F548",
+      "grade_level": 9,
+      "difficulty": "1.00"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 102,
+    "fields": {
+      "name": "F554",
+      "grade_level": 9,
+      "difficulty": "1.50"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 103,
+    "fields": {
+      "name": "F555",
+      "grade_level": 9,
+      "difficulty": "2.35"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 104,
+    "fields": {
+      "name": "F559",
+      "grade_level": 9,
+      "difficulty": "1.85"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 105,
+    "fields": {
+      "name": "F560",
+      "grade_level": 9,
+      "difficulty": "2.10"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 106,
+    "fields": {
+      "name": "F561",
+      "grade_level": 9,
+      "difficulty": "1.78"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 107,
+    "fields": {
+      "name": "F564",
+      "grade_level": 9,
+      "difficulty": "2.06"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 108,
+    "fields": {
+      "name": "F566",
+      "grade_level": 10,
+      "difficulty": "1.00"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 109,
+    "fields": {
+      "name": "F622",
+      "grade_level": 9,
+      "difficulty": "1.90"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 110,
+    "fields": {
+      "name": "F624",
+      "grade_level": 10,
+      "difficulty": "1.00"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 111,
+    "fields": {
+      "name": "F625",
+      "grade_level": 10,
+      "difficulty": "1.00"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 112,
+    "fields": {
+      "name": "F627",
+      "grade_level": 10,
+      "difficulty": "1.00"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 113,
+    "fields": {
+      "name": "F628",
+      "grade_level": 10,
+      "difficulty": "1.00"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 114,
+    "fields": {
+      "name": "F629",
+      "grade_level": 10,
+      "difficulty": "1.00"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 115,
+    "fields": {
+      "name": "F630",
+      "grade_level": 10,
+      "difficulty": "1.00"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 116,
+    "fields": {
+      "name": "G112",
+      "grade_level": 5,
+      "difficulty": "-0.72"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 117,
+    "fields": {
+      "name": "G114",
+      "grade_level": 8,
+      "difficulty": "0.35"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 118,
+    "fields": {
+      "name": "G120",
+      "grade_level": 6,
+      "difficulty": "-0.42"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 119,
+    "fields": {
+      "name": "G122",
+      "grade_level": 6,
+      "difficulty": "-0.52"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 120,
+    "fields": {
+      "name": "G153",
+      "grade_level": 4,
+      "difficulty": "-1.12"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 121,
+    "fields": {
+      "name": "G154",
+      "grade_level": 7,
+      "difficulty": "-0.03"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 122,
+    "fields": {
+      "name": "G172",
+      "grade_level": 4,
+      "difficulty": "-1.16"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 123,
+    "fields": {
+      "name": "G173",
+      "grade_level": 8,
+      "difficulty": "0.17"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 124,
+    "fields": {
+      "name": "G174",
+      "grade_level": 7,
+      "difficulty": "-0.24"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 125,
+    "fields": {
+      "name": "G181",
+      "grade_level": 7,
+      "difficulty": "0.50"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 126,
+    "fields": {
+      "name": "G183",
+      "grade_level": 4,
+      "difficulty": "-1.32"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 127,
+    "fields": {
+      "name": "G184",
+      "grade_level": 5,
+      "difficulty": "-0.79"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 128,
+    "fields": {
+      "name": "G194",
+      "grade_level": 8,
+      "difficulty": "0.12"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 129,
+    "fields": {
+      "name": "G198",
+      "grade_level": 7,
+      "difficulty": "-0.22"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 130,
+    "fields": {
+      "name": "G205",
+      "grade_level": 8,
+      "difficulty": "0.48"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 131,
+    "fields": {
+      "name": "G211",
+      "grade_level": 7,
+      "difficulty": "-0.18"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 132,
+    "fields": {
+      "name": "G221",
+      "grade_level": 8,
+      "difficulty": "0.61"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 133,
+    "fields": {
+      "name": "G223",
+      "grade_level": 5,
+      "difficulty": "-0.61"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 134,
+    "fields": {
+      "name": "G229",
+      "grade_level": 5,
+      "difficulty": "-0.59"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 135,
+    "fields": {
+      "name": "G242",
+      "grade_level": 8,
+      "difficulty": "0.10"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 136,
+    "fields": {
+      "name": "G248",
+      "grade_level": 3,
+      "difficulty": "-1.79"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 137,
+    "fields": {
+      "name": "G249",
+      "grade_level": 8,
+      "difficulty": "0.31"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 138,
+    "fields": {
+      "name": "G256",
+      "grade_level": 3,
+      "difficulty": "-2.25"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 139,
+    "fields": {
+      "name": "G261",
+      "grade_level": 8,
+      "difficulty": "0.45"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 140,
+    "fields": {
+      "name": "G262",
+      "grade_level": 8,
+      "difficulty": "0.05"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 141,
+    "fields": {
+      "name": "G271",
+      "grade_level": 7,
+      "difficulty": "0.17"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 142,
+    "fields": {
+      "name": "G275",
+      "grade_level": 8,
+      "difficulty": "0.55"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 143,
+    "fields": {
+      "name": "G284",
+      "grade_level": 8,
+      "difficulty": "0.14"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 144,
+    "fields": {
+      "name": "G287",
+      "grade_level": 3,
+      "difficulty": "-2.16"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 145,
+    "fields": {
+      "name": "G301",
+      "grade_level": 5,
+      "difficulty": "-0.75"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 146,
+    "fields": {
+      "name": "G308",
+      "grade_level": 8,
+      "difficulty": "0.85"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 147,
+    "fields": {
+      "name": "G315",
+      "grade_level": 7,
+      "difficulty": "0.08"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 148,
+    "fields": {
+      "name": "G316",
+      "grade_level": 8,
+      "difficulty": "0.59"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 149,
+    "fields": {
+      "name": "G354",
+      "grade_level": 10,
+      "difficulty": "1.00"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 150,
+    "fields": {
+      "name": "G355",
+      "grade_level": 10,
+      "difficulty": "1.00"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 151,
+    "fields": {
+      "name": "G356",
+      "grade_level": 10,
+      "difficulty": "1.00"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 152,
+    "fields": {
+      "name": "G487",
+      "grade_level": 6,
+      "difficulty": "-0.23"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 153,
+    "fields": {
+      "name": "G500",
+      "grade_level": 7,
+      "difficulty": "0.19"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 154,
+    "fields": {
+      "name": "G504",
+      "grade_level": 5,
+      "difficulty": "-0.59"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 155,
+    "fields": {
+      "name": "G508",
+      "grade_level": 6,
+      "difficulty": "-0.11"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 156,
+    "fields": {
+      "name": "G511",
+      "grade_level": 7,
+      "difficulty": "0.14"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 157,
+    "fields": {
+      "name": "G512",
+      "grade_level": 8,
+      "difficulty": "0.53"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 158,
+    "fields": {
+      "name": "G517",
+      "grade_level": 5,
+      "difficulty": "-0.89"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 159,
+    "fields": {
+      "name": "G519",
+      "grade_level": 5,
+      "difficulty": "-0.38"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 160,
+    "fields": {
+      "name": "G589",
+      "grade_level": 4,
+      "difficulty": "-0.50"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 161,
+    "fields": {
+      "name": "G600",
+      "grade_level": 7,
+      "difficulty": "0.27"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 162,
+    "fields": {
+      "name": "G602",
+      "grade_level": 10,
+      "difficulty": "1.00"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 163,
+    "fields": {
+      "name": "G603",
+      "grade_level": 10,
+      "difficulty": "1.00"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 164,
+    "fields": {
+      "name": "G604",
+      "grade_level": 10,
+      "difficulty": "1.00"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 165,
+    "fields": {
+      "name": "G605",
+      "grade_level": 10,
+      "difficulty": "1.00"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 166,
+    "fields": {
+      "name": "G606",
+      "grade_level": 10,
+      "difficulty": "1.00"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 167,
+    "fields": {
+      "name": "G607",
+      "grade_level": 10,
+      "difficulty": "1.00"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 168,
+    "fields": {
+      "name": "G608",
+      "grade_level": 10,
+      "difficulty": "1.00"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 169,
+    "fields": {
+      "name": "G609",
+      "grade_level": 10,
+      "difficulty": "1.00"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 170,
+    "fields": {
+      "name": "G610",
+      "grade_level": 10,
+      "difficulty": "1.00"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 171,
+    "fields": {
+      "name": "G611",
+      "grade_level": 10,
+      "difficulty": "1.00"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 172,
+    "fields": {
+      "name": "G612",
+      "grade_level": 10,
+      "difficulty": "1.00"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 173,
+    "fields": {
+      "name": "G613",
+      "grade_level": 8,
+      "difficulty": "0.28"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 174,
+    "fields": {
+      "name": "G614",
+      "grade_level": 8,
+      "difficulty": "0.38"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 175,
+    "fields": {
+      "name": "G615",
+      "grade_level": 8,
+      "difficulty": "0.57"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 176,
+    "fields": {
+      "name": "G631",
+      "grade_level": 3,
+      "difficulty": "-2.45"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 177,
+    "fields": {
+      "name": "G633",
+      "grade_level": 5,
+      "difficulty": "-0.76"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 178,
+    "fields": {
+      "name": "G643",
+      "grade_level": 5,
+      "difficulty": "-0.76"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 179,
+    "fields": {
+      "name": "G646",
+      "grade_level": 6,
+      "difficulty": "-0.51"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 180,
+    "fields": {
+      "name": "G647",
+      "grade_level": 6,
+      "difficulty": "0.25"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 181,
+    "fields": {
+      "name": "G648",
+      "grade_level": 6,
+      "difficulty": "-0.24"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 182,
+    "fields": {
+      "name": "G660",
+      "grade_level": 4,
+      "difficulty": "-1.70"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 183,
+    "fields": {
+      "name": "G663",
+      "grade_level": 4,
+      "difficulty": "-0.63"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 184,
+    "fields": {
+      "name": "G664",
+      "grade_level": 4,
+      "difficulty": "-0.62"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 185,
+    "fields": {
+      "name": "G665",
+      "grade_level": 4,
+      "difficulty": "-0.62"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 186,
+    "fields": {
+      "name": "G666",
+      "grade_level": 4,
+      "difficulty": "-0.60"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 187,
+    "fields": {
+      "name": "G667",
+      "grade_level": 4,
+      "difficulty": "-0.60"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 188,
+    "fields": {
+      "name": "G668",
+      "grade_level": 4,
+      "difficulty": "-0.55"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 189,
+    "fields": {
+      "name": "G669",
+      "grade_level": 4,
+      "difficulty": "-1.00"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 190,
+    "fields": {
+      "name": "G670",
+      "grade_level": 4,
+      "difficulty": "-1.25"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 191,
+    "fields": {
+      "name": "G673",
+      "grade_level": 4,
+      "difficulty": "-1.60"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 192,
+    "fields": {
+      "name": "N101",
+      "grade_level": 5,
+      "difficulty": "-0.68"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 193,
+    "fields": {
+      "name": "N106",
+      "grade_level": 7,
+      "difficulty": "-0.39"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 194,
+    "fields": {
+      "name": "N107",
+      "grade_level": 5,
+      "difficulty": "-0.78"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 195,
+    "fields": {
+      "name": "N109",
+      "grade_level": 4,
+      "difficulty": "-0.90"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 196,
+    "fields": {
+      "name": "N110",
+      "grade_level": 4,
+      "difficulty": "-0.91"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 197,
+    "fields": {
+      "name": "N115",
+      "grade_level": 3,
+      "difficulty": "-2.75"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 198,
+    "fields": {
+      "name": "N126",
+      "grade_level": 4,
+      "difficulty": "-1.09"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 199,
+    "fields": {
+      "name": "N133",
+      "grade_level": 2,
+      "difficulty": "-1.51"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 200,
+    "fields": {
+      "name": "N142",
+      "grade_level": 4,
+      "difficulty": "-1.51"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 201,
+    "fields": {
+      "name": "N147",
+      "grade_level": 3,
+      "difficulty": "-3.08"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 202,
+    "fields": {
+      "name": "N152",
+      "grade_level": 7,
+      "difficulty": "-0.05"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 203,
+    "fields": {
+      "name": "N169",
+      "grade_level": 4,
+      "difficulty": "-1.40"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 204,
+    "fields": {
+      "name": "N170",
+      "grade_level": 6,
+      "difficulty": "-0.45"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 205,
+    "fields": {
+      "name": "N171",
+      "grade_level": 4,
+      "difficulty": "-1.81"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 206,
+    "fields": {
+      "name": "N176",
+      "grade_level": 5,
+      "difficulty": "-0.60"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 207,
+    "fields": {
+      "name": "N182",
+      "grade_level": 7,
+      "difficulty": "-0.36"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 208,
+    "fields": {
+      "name": "N186",
+      "grade_level": 6,
+      "difficulty": "-0.49"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 209,
+    "fields": {
+      "name": "N187",
+      "grade_level": 5,
+      "difficulty": "-0.51"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 210,
+    "fields": {
+      "name": "N192",
+      "grade_level": 5,
+      "difficulty": "-0.70"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 211,
+    "fields": {
+      "name": "N196",
+      "grade_level": 5,
+      "difficulty": "-0.68"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 212,
+    "fields": {
+      "name": "N209",
+      "grade_level": 6,
+      "difficulty": "-0.49"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 213,
+    "fields": {
+      "name": "N210",
+      "grade_level": 4,
+      "difficulty": "-1.33"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 214,
+    "fields": {
+      "name": "N216",
+      "grade_level": 6,
+      "difficulty": "-0.45"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 215,
+    "fields": {
+      "name": "A220",
+      "grade_level": 4,
+      "difficulty": "-0.82"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 216,
+    "fields": {
+      "name": "N231",
+      "grade_level": 7,
+      "difficulty": "-0.22"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 217,
+    "fields": {
+      "name": "N233",
+      "grade_level": 6,
+      "difficulty": "-0.38"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 218,
+    "fields": {
+      "name": "A238",
+      "grade_level": 4,
+      "difficulty": "-1.19"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 219,
+    "fields": {
+      "name": "N239",
+      "grade_level": 5,
+      "difficulty": "-0.79"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 220,
+    "fields": {
+      "name": "N247",
+      "grade_level": 6,
+      "difficulty": "-0.52"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 221,
+    "fields": {
+      "name": "N257",
+      "grade_level": 5,
+      "difficulty": "-0.33"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 222,
+    "fields": {
+      "name": "N263",
+      "grade_level": 8,
+      "difficulty": "0.92"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 223,
+    "fields": {
+      "name": "A272",
+      "grade_level": 3,
+      "difficulty": "-2.92"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 224,
+    "fields": {
+      "name": "N277",
+      "grade_level": 5,
+      "difficulty": "-0.75"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 225,
+    "fields": {
+      "name": "N282",
+      "grade_level": 5,
+      "difficulty": "-0.56"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 226,
+    "fields": {
+      "name": "N283",
+      "grade_level": 5,
+      "difficulty": "-0.46"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 227,
+    "fields": {
+      "name": "N288",
+      "grade_level": 4,
+      "difficulty": "-0.77"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 228,
+    "fields": {
+      "name": "N295",
+      "grade_level": 4,
+      "difficulty": "-1.26"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 229,
+    "fields": {
+      "name": "N304",
+      "grade_level": 6,
+      "difficulty": "-0.47"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 230,
+    "fields": {
+      "name": "N310",
+      "grade_level": 8,
+      "difficulty": "0.60"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 231,
+    "fields": {
+      "name": "N318",
+      "grade_level": 6,
+      "difficulty": "-0.41"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 232,
+    "fields": {
+      "name": "N371",
+      "grade_level": 9,
+      "difficulty": "1.67"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 233,
+    "fields": {
+      "name": "N372",
+      "grade_level": 9,
+      "difficulty": "2.00"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 234,
+    "fields": {
+      "name": "N390",
+      "grade_level": 4,
+      "difficulty": "-0.69"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 235,
+    "fields": {
+      "name": "N391",
+      "grade_level": 5,
+      "difficulty": "-0.74"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 236,
+    "fields": {
+      "name": "N499",
+      "grade_level": 6,
+      "difficulty": "-0.51"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 237,
+    "fields": {
+      "name": "N505",
+      "grade_level": 5,
+      "difficulty": "-0.58"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 238,
+    "fields": {
+      "name": "N506",
+      "grade_level": 5,
+      "difficulty": "-0.56"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 239,
+    "fields": {
+      "name": "N515",
+      "grade_level": 4,
+      "difficulty": "-0.55"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 240,
+    "fields": {
+      "name": "N518",
+      "grade_level": 5,
+      "difficulty": "-0.58"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 241,
+    "fields": {
+      "name": "N520",
+      "grade_level": 5,
+      "difficulty": "-0.43"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 242,
+    "fields": {
+      "name": "N522",
+      "grade_level": 7,
+      "difficulty": "0.46"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 243,
+    "fields": {
+      "name": "G527",
+      "grade_level": 5,
+      "difficulty": "-0.79"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 244,
+    "fields": {
+      "name": "N528",
+      "grade_level": 4,
+      "difficulty": "-1.55"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 245,
+    "fields": {
+      "name": "A530",
+      "grade_level": 3,
+      "difficulty": "-2.21"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 246,
+    "fields": {
+      "name": "N532",
+      "grade_level": 6,
+      "difficulty": "-0.53"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 247,
+    "fields": {
+      "name": "N533",
+      "grade_level": 5,
+      "difficulty": "-0.65"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 248,
+    "fields": {
+      "name": "N534",
+      "grade_level": 5,
+      "difficulty": "-0.53"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 249,
+    "fields": {
+      "name": "N535",
+      "grade_level": 5,
+      "difficulty": "-0.54"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 250,
+    "fields": {
+      "name": "N557",
+      "grade_level": 9,
+      "difficulty": "1.72"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 251,
+    "fields": {
+      "name": "N563",
+      "grade_level": 9,
+      "difficulty": "1.12"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 252,
+    "fields": {
+      "name": "N567",
+      "grade_level": 6,
+      "difficulty": "-0.52"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 253,
+    "fields": {
+      "name": "N576",
+      "grade_level": 4,
+      "difficulty": "-1.64"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 254,
+    "fields": {
+      "name": "N577",
+      "grade_level": 5,
+      "difficulty": "-0.48"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 255,
+    "fields": {
+      "name": "N578",
+      "grade_level": 5,
+      "difficulty": "-1.00"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 256,
+    "fields": {
+      "name": "N579",
+      "grade_level": 3,
+      "difficulty": "-2.64"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 257,
+    "fields": {
+      "name": "N580",
+      "grade_level": 2,
+      "difficulty": "-4.35"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 258,
+    "fields": {
+      "name": "N581",
+      "grade_level": 2,
+      "difficulty": "-3.58"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 259,
+    "fields": {
+      "name": "N582",
+      "grade_level": 2,
+      "difficulty": "-3.64"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 260,
+    "fields": {
+      "name": "N583",
+      "grade_level": 5,
+      "difficulty": "-0.50"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 261,
+    "fields": {
+      "name": "N616",
+      "grade_level": 5,
+      "difficulty": "-0.75"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 262,
+    "fields": {
+      "name": "N617",
+      "grade_level": 5,
+      "difficulty": "-0.60"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 263,
+    "fields": {
+      "name": "N618",
+      "grade_level": 7,
+      "difficulty": "-0.40"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 264,
+    "fields": {
+      "name": "N619",
+      "grade_level": 3,
+      "difficulty": "-1.90"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 265,
+    "fields": {
+      "name": "N632",
+      "grade_level": 4,
+      "difficulty": "-0.72"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 266,
+    "fields": {
+      "name": "N634",
+      "grade_level": 3,
+      "difficulty": "-1.14"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 267,
+    "fields": {
+      "name": "N638",
+      "grade_level": 3,
+      "difficulty": "-0.84"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 268,
+    "fields": {
+      "name": "N641",
+      "grade_level": 3,
+      "difficulty": "-1.88"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 269,
+    "fields": {
+      "name": "N642",
+      "grade_level": 3,
+      "difficulty": "-1.87"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 270,
+    "fields": {
+      "name": "N644",
+      "grade_level": 6,
+      "difficulty": "-0.54"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 271,
+    "fields": {
+      "name": "N649",
+      "grade_level": 5,
+      "difficulty": "-0.28"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 272,
+    "fields": {
+      "name": "N653",
+      "grade_level": 2,
+      "difficulty": "-3.40"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 273,
+    "fields": {
+      "name": "N655",
+      "grade_level": 4,
+      "difficulty": "-1.00"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 274,
+    "fields": {
+      "name": "N656",
+      "grade_level": 4,
+      "difficulty": "-0.80"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 275,
+    "fields": {
+      "name": "N657",
+      "grade_level": 4,
+      "difficulty": "-0.75"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 276,
+    "fields": {
+      "name": "N658",
+      "grade_level": 5,
+      "difficulty": "-0.45"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 277,
+    "fields": {
+      "name": "N662",
+      "grade_level": 4,
+      "difficulty": "-0.85"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 278,
+    "fields": {
+      "name": "N671",
+      "grade_level": 4,
+      "difficulty": "-1.85"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 279,
+    "fields": {
+      "name": "N672",
+      "grade_level": 4,
+      "difficulty": "-1.30"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 280,
+    "fields": {
+      "name": "N117",
+      "grade_level": 6,
+      "difficulty": "-0.29"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 281,
+    "fields": {
+      "name": "N141",
+      "grade_level": 6,
+      "difficulty": "-0.36"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 282,
+    "fields": {
+      "name": "N161",
+      "grade_level": 7,
+      "difficulty": "-0.19"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 283,
+    "fields": {
+      "name": "N213",
+      "grade_level": 6,
+      "difficulty": "-0.55"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 284,
+    "fields": {
+      "name": "N226",
+      "grade_level": 6,
+      "difficulty": "-0.40"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 285,
+    "fields": {
+      "name": "N230",
+      "grade_level": 7,
+      "difficulty": "0.09"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 286,
+    "fields": {
+      "name": "N243",
+      "grade_level": 7,
+      "difficulty": "0.02"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 287,
+    "fields": {
+      "name": "N292",
+      "grade_level": 6,
+      "difficulty": "0.06"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 288,
+    "fields": {
+      "name": "N299",
+      "grade_level": 7,
+      "difficulty": "0.77"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 289,
+    "fields": {
+      "name": "N317",
+      "grade_level": 6,
+      "difficulty": "-0.19"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 290,
+    "fields": {
+      "name": "N501",
+      "grade_level": 7,
+      "difficulty": "0.00"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 291,
+    "fields": {
+      "name": "N509",
+      "grade_level": 7,
+      "difficulty": "0.39"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 292,
+    "fields": {
+      "name": "N510",
+      "grade_level": 7,
+      "difficulty": "0.02"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 293,
+    "fields": {
+      "name": "N523",
+      "grade_level": 6,
+      "difficulty": "-0.23"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 294,
+    "fields": {
+      "name": "N584",
+      "grade_level": 7,
+      "difficulty": "0.19"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 295,
+    "fields": {
+      "name": "N588",
+      "grade_level": 6,
+      "difficulty": "-0.45"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 296,
+    "fields": {
+      "name": "S102",
+      "grade_level": 7,
+      "difficulty": "0.34"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 297,
+    "fields": {
+      "name": "S105",
+      "grade_level": 6,
+      "difficulty": "-0.40"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 298,
+    "fields": {
+      "name": "S119",
+      "grade_level": 7,
+      "difficulty": "-0.12"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 299,
+    "fields": {
+      "name": "S123",
+      "grade_level": 6,
+      "difficulty": "-0.19"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 300,
+    "fields": {
+      "name": "S135",
+      "grade_level": 3,
+      "difficulty": "-3.14"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 301,
+    "fields": {
+      "name": "S140",
+      "grade_level": 6,
+      "difficulty": "-0.34"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 302,
+    "fields": {
+      "name": "S150",
+      "grade_level": 8,
+      "difficulty": "0.97"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 303,
+    "fields": {
+      "name": "S156",
+      "grade_level": 7,
+      "difficulty": "0.30"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 304,
+    "fields": {
+      "name": "S166",
+      "grade_level": 7,
+      "difficulty": "-0.01"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 305,
+    "fields": {
+      "name": "S199",
+      "grade_level": 7,
+      "difficulty": "-0.36"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 306,
+    "fields": {
+      "name": "S219",
+      "grade_level": 7,
+      "difficulty": "0.03"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 307,
+    "fields": {
+      "name": "S225",
+      "grade_level": 6,
+      "difficulty": "-0.48"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 308,
+    "fields": {
+      "name": "S293",
+      "grade_level": 6,
+      "difficulty": "-0.40"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 309,
+    "fields": {
+      "name": "S302",
+      "grade_level": 6,
+      "difficulty": "-0.35"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 310,
+    "fields": {
+      "name": "S381",
+      "grade_level": 9,
+      "difficulty": "1.25"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 311,
+    "fields": {
+      "name": "A384",
+      "grade_level": 9,
+      "difficulty": "2.03"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 312,
+    "fields": {
+      "name": "A385",
+      "grade_level": 9,
+      "difficulty": "1.40"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 313,
+    "fields": {
+      "name": "S502",
+      "grade_level": 7,
+      "difficulty": "0.10"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 314,
+    "fields": {
+      "name": "S503",
+      "grade_level": 8,
+      "difficulty": "0.89"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 315,
+    "fields": {
+      "name": "S536",
+      "grade_level": 6,
+      "difficulty": "0.37"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 316,
+    "fields": {
+      "name": "S537",
+      "grade_level": 6,
+      "difficulty": "-0.20"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 317,
+    "fields": {
+      "name": "S538",
+      "grade_level": 8,
+      "difficulty": "0.34"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 318,
+    "fields": {
+      "name": "S558",
+      "grade_level": 9,
+      "difficulty": "3.09"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 319,
+    "fields": {
+      "name": "S562",
+      "grade_level": 9,
+      "difficulty": "1.86"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 320,
+    "fields": {
+      "name": "S565",
+      "grade_level": 9,
+      "difficulty": "2.25"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 321,
+    "fields": {
+      "name": "S623",
+      "grade_level": 9,
+      "difficulty": "2.21"
+    }
+  },
+  {
+    "model": "schooldata.skill",
+    "pk": 322,
+    "fields": {
+      "name": "G661",
+      "grade_level": 4,
+      "difficulty": "-0.70"
+    }
+  }
+]

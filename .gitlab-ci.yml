@@ -1,0 +1,26 @@
+# Documentation for GitLab CI is here: https://docs.gitlab.com/ee/topics/build_your_application.html
+stages:
+    - build
+    - test
+
+build:
+  stage: build
+  # this job should build a container image for demo_app
+
+
+test: # this job must be present in your final submission
+    stage: test
+    variables:
+        POSTGRES_DB: custom_db
+        POSTGRES_USER: custom_user
+        POSTGRES_PASSWORD: custom_pass
+        FF_NETWORK_PER_BUILD: 1
+
+    services:
+        - postgres
+        - name: "" # this should be the container image from the build task
+          alias: "demo_app"
+          variables:
+              DJANGO_CONFIGURATION: Development
+    script: # this assumes the fixture data has been loaded into the database
+        - wget -O - --content-on-error http://demo_app/graphql

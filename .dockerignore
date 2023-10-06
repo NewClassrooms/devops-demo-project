@@ -1,0 +1,2 @@
+*.sqlite3
+demo_app/db.sqlite3
