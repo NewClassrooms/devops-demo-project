@@ -1,0 +1,12 @@
+{
+  allSchools(name: "Test School") {
+    edges {
+      node {
+        id
+        name
+        isUsingScheduling
+        pk
+      }
+    }
+  }
+}
