@@ -4,6 +4,26 @@ This is a very simple demo app. It currently supports read-only GraphQL queries 
 elements, though mostly through a simple "get all of them" resolver, and
 a handful of mutations.
 
+## Your task
+
+We would like you to implement the `build` pipeline stage defined in [.gitlab-ci.yml](.gitlab-ci.yml).
+It should build a Docker image of demo_app and store that image in such a
+way that the `test` stage can use it. See the `TODO` comments in the file
+for further context. When you're done, the `build` and `test` stages should
+run successfully in GitLab CI/CD.
+
+As you set up the pipeline, you may find other bugs. Please address those
+issues as you go along, if possible. Leaving a `TODO` comment near the bug
+can be an effective way to document them if you don't have time to fix them.
+
+Please fork this repository into your own GitLab account (or namespace). You can work on the
+pipeline there. When you're happy with how the pipeline is working, please open a
+[merge request](https://docs.gitlab.com/ee/user/project/repository/forking_workflow.html#merge-changes-back-upstream)
+back to our project. We will review your work there.
+
+We expect this task to take about two hours to complete. If you'd like to spend more time on it to
+make further improvements or enhancements, please feel free to do so.
+
 ## Basic requirements
 
 * Some version of Python 3 compatible with Django; this has been tested with 3.10.12

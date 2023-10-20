@@ -4,11 +4,11 @@ stages:
     - test
 
 build:
-  stage: build
-  # this job should build a container image for demo_app
+    stage: build
+    # TODO: This job should build a container image for demo_app that
+    # can be used in the `test` stage later.
 
-
-test: # this job must be present in your final submission
+test:
     stage: test
     image: quay.io/curl/curl-base:latest
     variables:
@@ -20,7 +20,7 @@ test: # this job must be present in your final submission
 
     services:
         - postgres
-        - name: "" # this should be the container image from the build task
+        - name: "" # TODO: Use the image built in the `build` stage.
           alias: "demo_app"
           variables:
               DJANGO_CONFIGURATION: Development
