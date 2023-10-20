@@ -4,6 +4,12 @@ This is a very simple demo app. It currently supports read-only GraphQL queries 
 elements, though mostly through a simple "get all of them" resolver, and
 a handful of mutations.
 
+## Basic requirements
+
+* Some version of Python 3 compatible with Django; this has been tested with 3.10.12
+* Bash shell if you want to run the _Quick start_ as written
+* Docker and Docker Compose if you want to run this containerized with PostgreSQL
+
 ## Quick start
 
 1. Clone this repository; `cd` into it.
@@ -17,8 +23,10 @@ a handful of mutations.
     ```
 4. Initialize Django:
     ```
+    cd demo_app
     ./manage.py migrate
     ```
+    With the default configuration, you should now have a `db.sqlite3` database.
 5. Set up yourself as a user:
     ```
     ./manage.py createsuperuser
