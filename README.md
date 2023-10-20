@@ -17,9 +17,8 @@ issues as you go along, if possible. Leaving a `TODO` comment near the bug
 can be an effective way to document them if you don't have time to fix them.
 
 Please fork this repository into your own GitLab account (or namespace). You can work on the
-pipeline there. When you're happy with how the pipeline is working, please open a
-[merge request](https://docs.gitlab.com/ee/user/project/repository/forking_workflow.html#merge-changes-back-upstream)
-back to our project. We will review your work there.
+pipeline there. When you're happy with how the pipeline is working, please add the list of
+emails the recruiter sent you as members of your fork so that we can review your work.
 
 We expect this task to take about two hours to complete. If you'd like to spend more time on it to
 make further improvements or enhancements, please feel free to do so.
